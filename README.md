@@ -1,7 +1,7 @@
 # 💫 O mnie:
-🔭 Moja strona WWW: <a href="jakubkopczynski.tk">jakubkopczynski.tk</a><br>
+🔭 <a href="jakubkopczynski.tk">Moja strona WWW</a><br>
 🔭 <a href="https://github.com/kopczynskijakub/kopczynskijakub/projects?query=is%3Aopen">Moje portfolio</a><br>
-👯 Kontakt e-mail: kubakopczynski694@gmail.com<br>
+👯 kubakopczynski694@gmail.com<br>
 💬 Jeśli masz pytanie, lub chcesz nawiązać współpracę zostaw wiadomość!
 
 
