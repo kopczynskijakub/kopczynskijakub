@@ -1,6 +1,6 @@
 # 💫 INFORMACJE
 🔭 <a href="jakubkopczynski.tk">Moja strona WWW</a><br>
-🔭 <a href="https://github.com/kopczynskijakub/kopczynskijakub/projects?query=is%3Aopen">Moje portfolio</a><br>
+🔭 <a href="https://github.com/kopczynskijakub/kopczynskijakub/projects?query=is%3Aopen">Moje projekty</a><br>
 👯 kubakopczynski694@gmail.com<br>
 💬 Jeśli masz pytanie, lub chcesz nawiązać współpracę zostaw wiadomość!
 
