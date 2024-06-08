@@ -1,7 +1,7 @@
 # 💫 INFORMACJE
-🌐 <a href="https://jakubkopczynski.tk" target="blank">Moja strona WWW</a><br>
+🌐 <a href="https://jkweb-design.pl" target="blank">Moja strona WWW</a><br>
 🚀 <a href="https://github.com/kopczynskijakub/kopczynskijakub/projects?query=is%3Aopen">Moje projekty</a><br>
-📧 <a href="mailto:kopczynski.biznes@gmail.com">Jeśli masz pytanie, lub chcesz nawiązać współpracę zostaw wiadomość!</a>
+📧 <a href="mailto:jkwebdesign@gmail.com">Jeśli masz pytanie, lub chcesz nawiązać współpracę zostaw wiadomość!</a>
 <br>
 
 
